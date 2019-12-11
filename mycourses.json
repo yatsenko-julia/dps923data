@@ -1,0 +1,13 @@
+{
+  "student": "Julia Yatsenko",
+  "version": "1.0.0",
+  "timestamp": "2019-09-19T14:54:05+00:00",
+  "count": 5,
+  "data": [
+    { "id": 1, "courseCode": "DPS923", "courseName": "Mobile App Development - IOS" },
+    { "id": 2, "courseCode": "WTR200", "courseName": "Work Term Preparation" },
+    { "id": 3, "courseCode": "DPI912", "courseName": "Python for Programmers: Sockets and Security" },
+    { "id": 4, "courseCode": "BTH745", "courseName": "Human-Computer Interaction" },
+    { "id": 5, "courseCode": "BTN710", "courseName": "Information Security" }
+  ]
+}
